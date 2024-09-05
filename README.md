@@ -1,4 +1,4 @@
-# Problem Structure Creator
+# Coding Template Generator
 
 This script creates a folder structure for competitive programming problems, including a C++ file with a template, and empty input and output files.
 
