@@ -5,7 +5,7 @@ This script creates a folder structure for competitive programming problems, inc
 ## Usage
 
 ```
-python create_problem_structure.py <path> <problem_name>
+python template_generator.py <path> <problem_name>
 ```
 
 ### Arguments:
@@ -18,7 +18,7 @@ python create_problem_structure.py <path> <problem_name>
 ## Example
 
 ```
-python create_problem_structure.py /home/user/cp_problems new_problem
+python template_generator.py /home/user/cp_problems new_problem
 ```
 
 This will create a folder named `new_problem` in `/home/user/cp_problems` with the following structure:
